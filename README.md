@@ -7,18 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🧠+Building+Intelligent+Systems...;🐍+Python+%7C+TensorFlow+%7C+Scikit-learn;🌐+Django+%7C+Pandas+%7C+NumPy)](https://git.io/typing-svg)
 
 <br/>
-
-<!-- ✅ VISITOR COUNTER — uses visitcount.itsvg.in (reliable, LCD style) -->
-<img src="https://visitcount.itsvg.in/api?id=hon-mind&label=Visitor%20Count&color=1&icon=5&pretty=true" alt="Visitor Count"/>
-
-<br/><br/>
-
-<!-- Status badges -->
-![GitHub followers](https://img.shields.io/github/followers/hon-mind?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/hon-mind?style=for-the-badge&color=3fb950&labelColor=0d1117&label=STARS)
-
-</div>
-
 ---
 
 ## 🧬 About Me
@@ -44,22 +32,27 @@ me.say_hi()
 
 ---
 
-## 🧠 Neural Network Training
-
-<div align="center">
-
-> Watching a model learn — epoch by epoch, loss goes down, intelligence goes up.
-
-<img src="https://media1.tenor.com/m/ewe357VdCxMAAAAd/neural-network.gif" width="700" alt="Neural Network Training Animation"/>
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+### 🤖 AI / Machine Learning
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda" />
+</div>
 ### ⚡ Core & Backend
 
 <div align="center">
@@ -84,21 +77,6 @@ me.say_hi()
 
 <br/>
 
-### 🤖 AI / Machine Learning
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda" />
-</div>
 
 <br/>
 
@@ -216,6 +194,16 @@ me.say_hi()
 ```
 
 ---
+
+## 🧠 Neural Network Training
+
+<div align="center">
+
+> Watching a model learn — epoch by epoch, loss goes down, intelligence goes up.
+
+<img src="https://media1.tenor.com/m/ewe357VdCxMAAAAd/neural-network.gif" width="700" alt="Neural Network Training Animation"/>
+
+</div>
 
 ## 📫 Connect With Me
 
