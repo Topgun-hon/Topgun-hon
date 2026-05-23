@@ -1,88 +1,229 @@
-<!-- HEADER ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Python+Developer;Cybersecurity+Learner;Building+Intelligent+Systems" />
-</p>
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=hon-mind&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Backend%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🧠+Building+Intelligent+Systems...;🐍+Python+%7C+TensorFlow+%7C+Scikit-learn;🌐+Django+%7C+Pandas+%7C+NumPy)](https://git.io/typing-svg)
+
+<!-- Status badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=hon-mind&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/hon-mind?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)
+![GitHub User's stars](https://img.shields.io/github/stars/hon-mind?style=for-the-badge&color=3fb950&labelColor=0d1117&label=STARS)
+
+</div>
 
 ---
 
-# 👋 Hi, I'm TopGun
+## 🧬 About Me
 
-## 🤖 About Me
-I am a student passionate about **Artificial Intelligence**, **Software Development**, and **Cybersecurity**.  
-I enjoy building intelligent systems using **Python 🐍**, exploring machine learning 🧠, and improving digital security 🔐.
+```python
+class HonMind:
+    def __init__(self):
+        self.username     = "hon-mind"
+        self.focus        = ["Machine Learning", "AI Systems", "Backend Development"]
+        self.stack        = {
+            "ml_ai":    ["TensorFlow", "Scikit-learn", "Pandas", "NumPy"],
+            "backend":  ["Django", "Python", "REST APIs"],
+            "exploring": ["LLMs", "RAG Pipelines", "MLOps"]
+        }
+        self.open_to      = "Collaborations, Open Source & AI Projects 🚀"
 
-I focus on learning by building real-world projects and continuously improving my technical skills.
+    def say_hi(self):
+        print("Hey there! Let's build something intelligent together 🧠")
+
+me = HonMind()
+me.say_hi()
+```
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### 🤖 AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-00D1FF?style=for-the-badge&logo=python&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-00FF88?style=for-the-badge)
+<div align="center">
 
-### 💻 Development
-![Python](https://img.shields.io/badge/Python-00D1FF?style=for-the-badge&logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### Core Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Machine Learning & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools & Platforms
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔐 Cybersecurity
-![Security](https://img.shields.io/badge/Cybersecurity-FF0040?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=topgun-hon&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=topgun-hon&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-## 🧠 Currently Learning
-- Deep Learning (Neural Networks)
-- AI for Cybersecurity
-- API Development with Python
-- Ethical Hacking fundamentals
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hon-mind&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_radius=10" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hon-mind&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&border_radius=10" width="49%" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hon-mind&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hon-mind&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&hide_border=true&radius=8" width="49%" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
-## 🎯 Goals
-- Build real-world AI projects 🚀
-- Contribute to open-source 💡
-- Improve cybersecurity skills 🔐
-- Become an AI engineer 🧠
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=hon-mind&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/topgun-hon">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
-</p>
+## 🤖 AI Feature — Ask About My Work
+
+> **🧠 Interactive AI Widget** — Add this to your README by embedding a GitHub Pages site or using a service like [readme-jokes](https://github.com/ABSphreak/readme-jokes).
+
+<!-- AI Chatbot Widget (embed via GitHub Pages) -->
+<!-- To activate: deploy the included index.html to GitHub Pages at hon-mind/hon-mind/docs/ -->
+
+```
+💬 "What projects are you working on?"
+🤖  → Currently building ML pipelines for classification & NLP tasks
+    → Developing Django REST APIs with AI-powered endpoints
+    → Exploring LLM fine-tuning and RAG architectures
+
+💬 "What's your strongest skill?"
+🤖  → Python across all layers: data, model training, and web backend
+    → End-to-end ML workflows: data → training → deployment
+```
 
 ---
 
-## ⚡ AI Animation
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
-</p>
+<div align="center">
+
+<!-- Snake animation — enable via GitHub Actions (see setup below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- Fallback activity calendar -->
+![Activity](https://ghchart.rshah.org/58a6ff/hon-mind)
+
+</div>
 
 ---
 
-## 💡 Quote
-> “The future belongs to those who build intelligent systems today.”
+## 📈 Skill Proficiency
+
+<div align="center">
+
+| Skill | Proficiency | Level |
+|-------|------------|-------|
+| 🐍 Python | `████████████████████` 95% | Expert |
+| 🧠 TensorFlow | `██████████████████░░` 88% | Advanced |
+| 📊 Scikit-learn | `███████████████████░` 90% | Advanced |
+| 🐼 Pandas | `███████████████████░` 92% | Advanced |
+| 🔢 NumPy | `███████████████████░` 91% | Advanced |
+| 🌐 Django | `█████████████████░░░` 85% | Advanced |
+
+</div>
 
 ---
 
-<p align="center">
-  🚀 Always learning. Always building. Always improving.
-</p>
+## 🎯 Current Focus
+
+```
+🔬 Research      →  Large Language Models & Fine-tuning
+🏗️ Building      →  AI-powered Django REST APIs
+📚 Learning      →  MLOps, Model Deployment, RAG Systems
+🤝 Open to       →  AI/ML collaborations & open source contributions
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-hon--mind-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hon-mind)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hon-mind)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hon-mind)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+## ⚙️ Setup Guide — Activate All Animations
+
+<details>
+<summary>📋 Click to expand setup instructions</summary>
+
+### 1. Snake Contribution Animation
+Create `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: hon-mind
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+### 2. Profile Views Counter
+Already embedded — auto-activates on first profile visit.
+
+### 3. Stats Cards
+All stats cards auto-fetch from GitHub's API. No setup needed.
+
+### 4. Update Your Links
+Replace placeholder URLs in the Connect section with your real profiles.
+
+</details>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+**✨ Crafted with passion by [hon-mind](https://github.com/hon-mind) · AI Engineer & ML Developer ✨**
+
+*"The best way to predict the future is to build it with AI."*
+
+![Made with](https://img.shields.io/badge/Made%20with-❤️%20%26%20Python-58a6ff?style=flat-square&labelColor=0d1117)
+
+</div>
