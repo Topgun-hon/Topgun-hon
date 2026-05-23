@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=hon-mind&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Backend%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🧠+Building+Intelligent+Systems...;🐍+Python+%7C+TensorFlow+%7C+Scikit-learn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Intelligent+Systems...;Python+%7C+TensorFlow+%7C+Scikit-learn)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 ## 🧬 About Me
 
 ```python
-class HonMind:
+class Honore:
     def __init__(self):
         self.username     = "hon-mind"
         self.focus        = ["Machine Learning", "AI Systems", "Backend Development"]
@@ -27,13 +27,13 @@ class HonMind:
     def say_hi(self):
         print("Hey there! Let's build something intelligent together 🧠")
 
-me = HonMind()
+me = Honore()
 me.say_hi()
 ```
 
 ## 🛠️ Tech Stack
 
-
+<div align="center">
 ### 🤖 AI / Machine Learning
 
 <div align="center">
