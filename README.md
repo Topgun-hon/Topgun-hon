@@ -34,6 +34,7 @@ me.say_hi()
 ## 🛠️ Tech Stack
 
 <div align="center">
+    
 ### 🤖 AI / Machine Learning
 
 <div align="center">
@@ -92,8 +93,6 @@ me.say_hi()
 </div>
 
 </div>
-
----
 
 ## 📊 GitHub Analytics
 
