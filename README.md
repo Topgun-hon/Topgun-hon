@@ -31,10 +31,12 @@ me = Honore()
 me.say_hi()
 ```
 
+---
+
 ## 🛠️ Tech Stack
 <br/>
 <div align="center">
-    
+
 ### 🤖 AI / Machine Learning
 <br/>
 <div align="center">
@@ -47,12 +49,9 @@ me.say_hi()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
-  <img width="12" />
 </div>
 
 <br/>
-
-<div align="center">
 
 ### ⚡ Core & Backend
 
@@ -85,7 +84,7 @@ me.say_hi()
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
@@ -93,6 +92,8 @@ me.say_hi()
 </div>
 
 </div>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -106,6 +107,7 @@ me.say_hi()
 
 </div>
 
+---
 
 ## 🏆 GitHub Trophies
 
@@ -115,8 +117,11 @@ me.say_hi()
 
 </div>
 
+---
+
 ## 🤖 AI Feature — Ask About My Work
 
+```
 💬 "What projects are you working on?"
 🤖  → Currently building ML pipelines for classification & NLP tasks
     → Developing Django REST APIs with AI-powered endpoints
@@ -168,7 +173,7 @@ me.say_hi()
 
 </div>
 
-<div align="center">
+---
 
 ## AI Training
 
@@ -180,6 +185,9 @@ me.say_hi()
 
 </div>
 
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
