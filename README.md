@@ -110,14 +110,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="left">
-
-<img src="https://github-profile-trophy.vercel.app/?username=honore-models&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
-
-</div>
-
 
 ## 🤖 AI Feature — Ask About My Work
 
